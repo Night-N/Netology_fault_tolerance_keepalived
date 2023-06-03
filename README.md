@@ -9,7 +9,7 @@
 
 - [Задание 1. Cisco Packet Tracer. Протокол HSRP](#Задание-1)
 - [Задание 2. Keepalived на Linux с сервером Nginx](#Задание-2)  
-- [Задание 2. Keepalived на Ubuntu 20.04](#Задание-2-*) 
+- [Задание 2. Keepalived на Ubuntu 20.04](#Задание-2-keepalived-ubuntu) 
 - [Задание 3. Keepalived, vrrp_track_file](#Задание-3)  
 
 
@@ -76,7 +76,7 @@ CentOS 7, Keepalived v1.3.5, nginx/1.20.1
 [check.sh](./check.sh)
 
 
-## Задание 2 *
+## Задание 2 keepalived ubuntu
 
 Первоначально установил на **ubuntu 20.04.6 LTS**, **keepalived** из репозитория ubuntu, **nginx/1.18.0** 
 
